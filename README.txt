@@ -5,7 +5,6 @@ This project is all about apples!
 ## Files
 - `html`: Main HTML file with apple facts and fun content.
 - `style.css`: Stylesheet for apple-themed colors and effects.
-- `apple.txt`: Dummy text and ASCII art about apples.
 - `about.html`: Additional info about apples.
 - `README.txt`: This file.
 
